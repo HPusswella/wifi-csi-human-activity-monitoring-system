@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -13,22 +12,17 @@ build/
 venv/
 env/
 
-# Jupyter
 .ipynb_checkpoints/
 
-# VS Code / IDE
 .vscode/
 .idea/
 
-# OS files
 .DS_Store
 Thumbs.db
 
-# Logs
 *.log
 logs/
 
-# Model / data outputs
 checkpoints/
 saved_models/
 models/*.h5
@@ -38,17 +32,14 @@ models/*.pt
 results/
 output/
 
-# Raspberry Pi / system files
 *.tmp
 *.bak
 
-# Secrets
 *.pem
 *.key
 credentials.json
 config.secret
 
-# Large generated data
 dataset/raw/
 dataset/processed/
 data/raw/
