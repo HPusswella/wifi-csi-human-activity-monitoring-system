@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Model / data outputs
+checkpoints/
+saved_models/
+models/*.h5
+models/*.keras
+models/*.pth
+models/*.pt
+results/
+output/
+
+# Raspberry Pi / system files
+*.tmp
+*.bak
+
+# Secrets
+*.pem
+*.key
+credentials.json
+config.secret
+
+# Large generated data
+dataset/raw/
+dataset/processed/
+data/raw/
+data/processed/
