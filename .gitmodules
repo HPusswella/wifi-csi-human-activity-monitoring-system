@@ -1,0 +1,12 @@
+[submodule "wifi-csi-capture"]
+	path = wifi-csi-capture
+	url = https://github.com/HPusswella/wifi-csi-capture
+[submodule "wifi-csi-activity-dataset"]
+	path = wifi-csi-activity-dataset
+	url = https://github.com/HPusswella/wifi-csi-activity-dataset
+[submodule "deep-learning-wifi-csi-har"]
+	path = deep-learning-wifi-csi-har
+	url = https://github.com/HPusswella/deep-learning-wifi-csi-har
+[submodule "wifi-csi-realtime-monitoring"]
+	path = wifi-csi-realtime-monitoring
+	url = https://github.com/HPusswella/wifi-csi-realtime-monitoring
