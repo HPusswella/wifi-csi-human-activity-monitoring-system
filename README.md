@@ -190,8 +190,6 @@ Step 4 → Deploy real-time monitoring & alerts    [wifi-csi-realtime-monitoring
 
 ##  Team
 
-| Name | Student ID | Role |
-|------|-----------|------|
 | P.G.R.H. Pusswella 
 | D.K. Nivedya 
 
@@ -210,6 +208,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-*Made with ❤️ at SLTC Research University, Sri Lanka*
+*Made with at SLTC Research University, Sri Lanka*
 
 </div>
